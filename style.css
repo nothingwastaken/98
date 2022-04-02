@@ -17,3 +17,12 @@
 {
     width: 300px;
 }
+
+h1 {
+    color:black;
+
+}
+body {
+    text-align: center;
+    background-color: aquamarine;
+}
